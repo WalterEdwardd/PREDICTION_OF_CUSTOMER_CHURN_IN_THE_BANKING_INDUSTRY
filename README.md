@@ -41,6 +41,8 @@ It is advantageous for banks to know what leads a client towards the decision to
 ![image](https://github.com/WalterEdwardd/PREDICTION_OF_CUSTOMER_CHURN_IN_THE_BANKING_INDUSTRY/assets/128374617/c801d7aa-5817-4894-9ef7-6ccaec77cc13)
 
 ### Data Exploration
+![image](https://github.com/WalterEdwardd/PREDICTION_OF_CUSTOMER_CHURN_IN_THE_BANKING_INDUSTRY/assets/128374617/62104f73-6a16-4949-ba1c-a2e251059abc)
+
 #### Univariate Analysis
 ![image](https://github.com/WalterEdwardd/PREDICTION_OF_CUSTOMER_CHURN_IN_THE_BANKING_INDUSTRY/assets/128374617/caa63323-3ec2-4cf0-8802-0e7c287f0136)
 
